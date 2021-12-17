@@ -181,7 +181,7 @@ all_trips_v2 %>%
                                   # average duration 
             ,average_duration = mean(ride_length)) %>% 		# calculates the 
                                                           # average duration
-  arrange(member_casual, weekday)								# sorts
+  arrange(member_casual, weekday)		# sorts
 
 # Let's visualize the number of rides by rider type
 all_trips_v2 %>% 
