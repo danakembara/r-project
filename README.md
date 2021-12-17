@@ -10,4 +10,4 @@
 
 ##### Moreno has set a clear goal: Design marketing strategies aimed at converting casual riders into annual members. In order to do that, however, the marketing analyst team needs to better understand how annual members and casual riders differ, why casual riders would buy a membership, and how digital media could affect their marketing tactics.
 
-##### I use the latest 1 year of riders data from: https://divvy-tripdata.s3.amazonaws.com/index.html to identify how annual members and casual riders differ as a first step before doing an accurate campaign
+I use the latest 1 year of riders data from: https://divvy-tripdata.s3.amazonaws.com/index.html to identify how annual members and casual riders differ as a first step before going to 
